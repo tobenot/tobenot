@@ -12,7 +12,7 @@
 
 ## 🌐 中文
 
-- **🎮 作品集:** [Epitaph](https://tobenot.top/Epitaph/)
+- **🎮 作品集:** [墓志铭](https://tobenot.top/Epitaph/)
 - **📝 博客:** [作家之屋](https://tobenot.top)
 - **🔭 我目前正在开发/研究:** AI接入的游戏、AI生产的创意内容（动漫）
 - **🌱 我正在学习:** 纯 TypeScript 的网络游戏开发
